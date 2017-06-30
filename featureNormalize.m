@@ -49,7 +49,7 @@ for i = 1:count
 
 end
 #}
-% ====================== YOUR CODE HERE ======================
+
 % Instructions: First, for each feature dimension, compute the mean
 %               of the feature and subtract it from the dataset,
 %               storing the mean value in mu. Next, compute the 
@@ -73,6 +73,5 @@ end
 
 
 
-% ============================================================
 
 end
